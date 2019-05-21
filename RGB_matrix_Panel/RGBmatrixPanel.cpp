@@ -4,7 +4,7 @@
 #include "gamma.h"
 
 #define nPlanes 4
-//Netid-it233, mr2265
+
 
 // Codeour group implemented 32x32 constructors:
 void RGBmatrixPanel::init(uint8_t rows, bool dbuf)
