@@ -1,6 +1,6 @@
 #include "joystick.h"
 #include "mbed.h"
-//Netid:- it233, mr2265
+
 Joystick::Joystick(PinName x_axis_pin, PinName y_axis_pin, PinName button_pin)
 {
     x_axis_ = new AnalogIn(x_axis_pin);
