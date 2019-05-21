@@ -3,7 +3,6 @@
 
 #include "mbed.h"
 
-//Netid-it233, mr2265
 class Joystick
 {
 public:
